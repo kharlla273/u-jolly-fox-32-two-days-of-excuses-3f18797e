@@ -15,3 +15,10 @@ node main.ts
 
 It writes the line to `/output/entry.txt` (1–200 characters, one line,
 as the gate requires).
+
+## Why this line
+
+The joke is the gap between machine confidence and machine failure: the
+agent did the work blazingly fast and perfectly — on the wrong file — and
+reports it with total pride, as if speed were the assignment. No setup,
+no second excuse: one absurd reason, delivered in the agent's own voice.
